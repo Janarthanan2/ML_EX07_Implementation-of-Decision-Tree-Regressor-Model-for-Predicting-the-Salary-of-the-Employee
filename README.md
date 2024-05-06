@@ -62,14 +62,19 @@ plt.show()
 
 ```
 ## Output:
-![1M](https://github.com/deepikasrinivasans/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/119393935/eb753a19-dac5-4e7b-9a8d-2f2865aff93d)
+<img src="https://github.com/deepikasrinivasans/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/119393935/eb753a19-dac5-4e7b-9a8d-2f2865aff93d" width=50%>
+
 #### MSE value
-![2M](https://github.com/deepikasrinivasans/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/119393935/96291726-5a85-4fb0-88e1-6a1b25f09c66)
+<img src="https://github.com/deepikasrinivasans/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/119393935/96291726-5a85-4fb0-88e1-6a1b25f09c66">
+
 #### R2 value
-![3M](https://github.com/deepikasrinivasans/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/119393935/e72f8432-4549-4d43-a57f-1a670814c228)
+<img src="https://github.com/deepikasrinivasans/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/119393935/e72f8432-4549-4d43-a57f-1a670814c228">
+
 #### Predicted value
-![4M](https://github.com/deepikasrinivasans/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/119393935/5e68b7d3-4b1e-493b-afc1-bf1fa588bfa3)
+<img src="https://github.com/deepikasrinivasans/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/119393935/5e68b7d3-4b1e-493b-afc1-bf1fa588bfa3">
+
 #### Result Tree
-![5M](https://github.com/deepikasrinivasans/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/119393935/bdc2ec17-7cd4-4e86-b4fe-ac355afe160c)
+<img src="https://github.com/deepikasrinivasans/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/119393935/bdc2ec17-7cd4-4e86-b4fe-ac355afe160c" width=50%>
+
 ## Result:
 Thus the program to implement the Decision Tree Regressor Model for Predicting the Salary of the Employee is written and verified using python programming.
